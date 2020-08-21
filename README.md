@@ -1,7 +1,7 @@
-# RDS data operator
+# readRDS operator
 
 ##### Description
-`rdsdata` operator imports rds  data files
+`readRDS` operator imports rdsdata files
 
 ##### Usage
 
@@ -11,7 +11,7 @@ Input projection|.
 
 Output relations|.
 ---|---
-a tercen table   | numeric, median of the input data
+a tercen table   | tableid, for every tablid there is a documentid relation 
 
 ##### Details
 

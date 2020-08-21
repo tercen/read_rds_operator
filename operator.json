@@ -1,9 +1,9 @@
 {
-  "name": "RDSdata",
+  "name": "readRDS",
   "description": "Convert RDS data document to tercen data set",
   "tags": ["rds", "import"],
   "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/rdsdata_operator"],
+  "urls": ["https://github.com/tercen/readrds_operator"],
   "properties": []
 }
 
