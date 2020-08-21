@@ -7,19 +7,21 @@
 
 Input projection|.
 ---|---
-`y-axis`        | numeric, input data, per cell 
+`col`        | documentid, this the documentid of the file
 
 Output relations|.
 ---|---
-`median`        | numeric, median of the input data
+a tercen table   | numeric, median of the input data
 
 ##### Details
-The operator takes all the values of a cell and returns the value which is the median.The computation is done per cell. There is one value returned for each of the input cell.
+
+The operator takes the documentIds (i.e. the RDS data file) and converts them to a tercen table.
 
 #### References
 
+see the `readRDS()` function in base R.
 
 ##### See Also
 
-[mean_operator](https://github.com/tercen/mean_operator)
+[readxls_operator](https://github.com/tercen/readxls_operator)
 #### Examples
