@@ -1,10 +1,9 @@
 {
-  "name": "Median",
-  "description": "Return the medium value of a cell",
-  "tags": ["basic statistics"],
+  "name": "RDSdata",
+  "description": "Convert RDS data document to tercen data set",
+  "tags": ["rds", "import"],
   "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/template_operator"],
+  "urls": ["https://github.com/tercen/rdsdata_operator"],
   "properties": []
 }
-
 
