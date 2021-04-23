@@ -1,6 +1,6 @@
 {
-  "name": "readRDS",
-  "description": "Convert RDS data document to tercen data set",
+  "name": "RDS",
+  "description": "Import an R-Data object (.rds)",
   "tags": ["rds", "import"],
   "authors": ["tercen"],
   "urls": ["https://github.com/tercen/readrds_operator"],
