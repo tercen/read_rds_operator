@@ -1,0 +1,25 @@
+{
+  "kind": "TableSchema",
+  "columns": [
+    {
+      "kind": "ColumnSchema",
+      "name": "ds6.Observation",
+      "type": "string"
+    },
+    {
+      "kind": "ColumnSchema",
+      "name": "ds6.Variable",
+      "type": "string"
+    },
+    {
+      "kind": "ColumnSchema",
+      "name": "ds6.Measurement",
+      "type": "string"
+    },
+    {
+      "kind": "ColumnSchema",
+      "name": ".ci"",
+      "type": "int.32"
+    }
+    ]
+}
