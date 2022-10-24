@@ -3,7 +3,7 @@
   "description": "Import an R-Data object (.rds)",
   "tags": ["rds", "import"],
   "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/readrds_operator"],
+  "urls": ["https://github.com/tercen/read_rds_operator"],
   "properties": []
 }
 
