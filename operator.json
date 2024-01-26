@@ -1,6 +1,6 @@
 {
   "name": "RDS",
-  "description": "Import an R-Data object (.rds)",
+  "description": "Imports an R-Data object (.rds).",
   "tags": [
     "import"
   ],
