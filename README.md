@@ -7,7 +7,7 @@
 
 Input projection|.
 ---|---
-`col`        | documentid, this the documentid of the file
+`documentId`        | Document ID of the RDS file
 
 Output relations|.
 ---|---
