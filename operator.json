@@ -32,6 +32,31 @@
         ]
       }
     ],
-    "outputSpecsV2": []
+    "outputSpecsV2": [
+      {
+        "kind": "OperatorJoinSpec",
+        "description": "Dynamic columns from RDS file content",
+        "joinOperators": [
+          {
+            "kind": "JoinOperator",
+            "joinType": "left",
+            "leftPair": {
+              "kind": "ColumnPair",
+              "lColumns": [
+                "Document ID"
+              ],
+              "rColumns": [
+                "Document ID"
+              ]
+            },
+            "rightRelation": {
+              "kind": "TableRelation",
+              "description": "Columns dynamically loaded from RDS file",
+              "attributes": []
+            }
+          }
+        ]
+      }
+    ]
   }
 }
